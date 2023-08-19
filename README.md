@@ -2,7 +2,7 @@
 A software Requirement Specification (SRS) Document that highlights the the specifications of creating an AI-Based Crypto Wallet Application
 
 
-**1.Introduction **
+**1.Introduction**
 
 1.1	Purpose:
 
@@ -273,17 +273,28 @@ Agile methodologies, such as Scrum or K, are iterative and incremental approache
 
 Pleae refer to the Attached SRS Document in the repository for information on the following headings:
 
-**6. Use-Case Diagram
-7. Use-Case Extended
-8. Class Diagram
-9. Activity Diagram
-10. System Sequence Diagram
-11. Sequence Diagram
-12. Dataflow Diagram
-13. Component Diagram
-14. Deployment Diagram
-15. Architecture Diagram
-16. Architectural Style**
+**6. Use-Case Diagram**
+
+**7. Use-Case Extended**
+
+**8. Class Diagram**
+
+**9. Activity Diagram**
+
+**10. System Sequence Diagram**
+
+**11. Sequence Diagram**
+
+**12. Dataflow Diagram**
+
+**13. Component Diagram**
+
+**14. Deployment Diagram**
+
+**15. Architecture Diagram**
+
+**16. Architectural Style**
+
   For our given project we are going to use Layer Architecture.
   This traditional architectural style involves breaking the application into different layers, such as presentation, business logic, and data access. Each    layer has a specific responsibility and communicates with other layers through defined interfaces. This architecture can be suitable for a crypto wallet     application as it provides separation of concerns and allows for flexibility in changing or adding components without affecting other parts of the system.
 
